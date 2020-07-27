@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment-1</title>
+	<style>
+		.custom
+		{
+			position: absolute;
+			left: 390px;
+		}
+	</style>
+</head>
+<body>
+  <iframe class="custom" src="Intern-Assignment-1.html" style="height:750px;width:750px"></iframe>
+</body>
+</html>
