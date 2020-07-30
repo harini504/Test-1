@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Hospitality</title>
+<style>
+a:link {
+  color: black;
+ font-size:60px;
+}
+a.column{
+float:left;
+
+}
+p
+{
+color:white;
+font-size:30px;
+border:solid;
+border-color:red;
+}
+</style>
+</head>
+<body background="C:\Users\vigne\Pictures\Saved Pictures\doc.jpg">
+<center>
+<h1 style="color:red">ABOUT US</h1>
+</centre>
+<img src="C:\Users\vigne\Pictures\Saved Pictures\hos.jpg" style="border:solid;border-color:blue">
+
+<p style="color:black">
+In this hospital has over two decades of experience
+ in the healthcare sector, and is known for providing 
+quality healthcare and valuable experience to all domestic
+ and international patients. Our healthcare offerings are
+ supported by a team of compassionate and dedicated
+ medical professionals who have rich knowledge and
+ experience in their respective domains.</p>
+</body>
+</html>
